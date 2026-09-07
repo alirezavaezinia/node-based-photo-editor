@@ -2,7 +2,7 @@
 
 An experimental node-based photo editor and image processing environment built with Python and PyQt6.
 
-https://github.com/alirezavaezinia/node-based-photo-editor/blob/main/assets/Screenshots/first-page-demo.gif
+![Node-Based Photo Editor Demo](assets/Screenshots/first-page-demo.gif)
 
 > A personal experiment in building an extensible, graph-based image editing workflow from scratch.
 
