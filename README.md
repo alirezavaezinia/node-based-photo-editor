@@ -47,7 +47,7 @@ The result is an experimental **node-based image processing environment** where 
 
 The application is built around a visual workspace where nodes can be created, moved, connected, and combined into image processing pipelines.
 
-https://github.com/alirezavaezinia/node-based-photo-editor/blob/main/assets/Screenshots/sc2.png
+![Main Interface](assets/Screenshots/sc2.png)
 
 ---
 
