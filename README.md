@@ -72,7 +72,7 @@ Preview
 
 Each node can receive data from another node, process it, and pass the result further through the graph.
 
-https://github.com/alirezavaezinia/node-based-photo-editor/blob/main/assets/Screenshots/sc1.png
+![Example Node Graph](assets/Screenshots/sc1.png)
 
 ---
 
